@@ -1,6 +1,7 @@
-# Hello there! 👋
+## Hi there, I'm Aydin 👋
 
-I'm Aydin, an [Electrical & Electronics Engineering](https://ee.boun.edu.tr) [graduate](https://www.cit.tum.de/cit/studium/studiengaenge/master-elektrotechnik-informationstechnik/) from Çanakkale 🏛️, Turkey 🇹🇷, currently exploring the tech realm in Munich🏙️, Germany 🇩🇪.
+Hailing from Çanakkale 🏛️, Turkey 🇹🇷, I'm deeply passionate about Electrical & Electronics Engineering. My academic journey took off with a bachelor's degree from [Bogazici University](https://ee.boun.edu.tr), and later propelled me to Munich, Germany 🇩🇪, where I earned a [Master's degree in Electrical Engineering and Information Technology at TUM](https://www.cit.tum.de/cit/studium/studiengaenge/master-elektrotechnik-informationstechnik/).
+
 
 ###
 
