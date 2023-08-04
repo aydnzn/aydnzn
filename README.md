@@ -51,10 +51,6 @@ Hailing from Çanakkale 🏛️, Turkey 🇹🇷, I'm deeply passionate about El
 
 ###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/aydnzn">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?count=1" alt="Spotify recently played"  />
-  </a>
-</div>
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=aydnzn)
 
 ###
