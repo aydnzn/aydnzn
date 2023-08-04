@@ -1,5 +1,10 @@
 <h2 align="left">Hi 👋! My name is Aydin and I'm an electrical & electronic engineering grad from Çanakkale,TR, currently based in Munich, DE.</h2>
 
+# Hello there! 👋
+
+I'm Aydin, an Electrical & Electronic Engineering graduate from Çanakkale, Turkey, currently exploring the tech realm in Munich, Germany.
+
+
 ###
 
 <div align="center">
