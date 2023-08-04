@@ -10,7 +10,7 @@ I'm Aydin, an Electrical & Electronic Engineering graduate from Çanakkale, Turk
 
 ###
 
-<img align="right" height="150" src="[https://steamcommunity.com/sharedfiles/filedetails/?id=836344985](https://steamuserimages-a.akamaihd.net/ugc/89343560297047816/E8BA5B125CB38ED7A4EED656DA09759F09B7B1E7/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false)"  />
+<img align="right" height="150" src="https://media.tenor.com/tmNnUiYvzvUAAAAd/eren-eren-yeager.gif">
 
 ###
 
