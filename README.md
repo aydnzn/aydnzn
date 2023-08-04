@@ -11,7 +11,7 @@ Hailing from Çanakkale 🏛️, Turkey 🇹🇷, I'm deeply passionate about El
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="30" alt="matlab logo"  />
@@ -39,7 +39,7 @@ Hailing from Çanakkale 🏛️, Turkey 🇹🇷, I'm deeply passionate about El
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="mailto:aydnzn@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
@@ -51,6 +51,6 @@ Hailing from Çanakkale 🏛️, Turkey 🇹🇷, I'm deeply passionate about El
 
 ###
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=aydnzn)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=aydnzn&count={1})
 
 ###
