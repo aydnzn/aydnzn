@@ -1,6 +1,6 @@
 # Hello there! 👋
 
-I'm Aydin, an Electrical & Electronic Engineering graduate from Çanakkale, Turkey, currently exploring the tech realm in Munich, Germany.
+I'm Aydin, an [Electrical & Electronics Engineering](https://ee.boun.edu.tr) [graduate](https://www.cit.tum.de/cit/studium/studiengaenge/master-elektrotechnik-informationstechnik/) from Çanakkale 🏛️, Turkey 🇹🇷, currently exploring the tech realm in Munich🏙️, Germany 🇩🇪.
 
 ###
 
