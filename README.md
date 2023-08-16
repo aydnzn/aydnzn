@@ -51,9 +51,3 @@ Dive deeper into my works and experiences at [my portfolio](https://aydnzn.githu
 
 
 ###
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=aydnzn&count=1" alt="Recently Played Song" />
-</div>
-
-###
